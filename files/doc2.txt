@@ -1,7 +1,7 @@
-aaaaaAAA
-aaaaabbbBBB
-sasasasaCCC
+a    aaaaAAA
+aaaa   abbbBBB
+s   asasasaCCC
 sdfsrfe
-gfwergferf
-vgfergfe
+gf wergferf
+v  gfergfe
 frerwe
