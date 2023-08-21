@@ -1,9 +1,3 @@
-a    aaaaAAA
-aaaa   abbbBBB
-s   asasasaCCC
-sdfsrfe
-gf wergferf
-v  gfergfe
-frerwe jjjeds
-upisana dva reda
-Napravljena grana 3.2
+aaaaaAAA
+aaaaabbbBBB
+sasasasaCCC
